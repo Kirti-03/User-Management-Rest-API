@@ -17,20 +17,16 @@ To run the project, **clone the repository, configure MySQL connection details i
 
 2. **Use Postman to Send API Requests**:  
 
-   - **Get All Users**  
-     - **Method:** `GET`  
-     - **URL:** `http://localhost:8080/Users`  
-     
-
-   - **Get User by ID**  
-     - **Method:** `GET`  
-     - **URL:** `http://localhost:8080/Users/id/{id}`   
-
-   - **Create a New User**  
+ - **Create a New User**  
      - **Method:** `POST`  
      - **URL:** `http://localhost:8080/Users`  
-     - **Body (JSON, raw):**  
-       
+     - **Body (JSON, raw):**
+
+ 
+   - **Get User by ID**  
+     - **Method:** `GET`  
+     - **URL:** `http://localhost:8080/Users/id/{id}`     
+
 
    - **Update User Details**  
      - **Method:** `PUT`  
