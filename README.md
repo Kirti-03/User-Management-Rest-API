@@ -21,7 +21,7 @@ To run the project, **clone the repository, configure MySQL connection details i
      - **Method:** `POST`  
      - **URL:** `http://localhost:8080/Users`  
      - **Body (JSON, raw):**
-   ![Image](https://github.com/user-attachments/assets/bdd8d09f-7421-438d-8c57-704c97b5d076)
+   
 
  
    - **Get User by ID**  
