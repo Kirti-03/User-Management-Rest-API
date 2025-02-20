@@ -23,21 +23,21 @@ To run the project, **clone the repository, configure MySQL connection details i
      - **Body (JSON, raw):**
    ![Image](https://github.com/user-attachments/assets/019fbc09-27ff-45b0-8df1-409c17b53084)
 
- 
    - **Get User by ID**  
      - **Method:** `GET`  
-     - **URL:** `http://localhost:8080/Users/id/{id}`     
-
+     - **URL:** `http://localhost:8080/Users/id/{id}`
+       ![Image](https://github.com/user-attachments/assets/9b7497ce-c44c-4ee0-a959-192058aad649)
 
    - **Update User Details**  
      - **Method:** `PUT`  
      - **URL:** `http://localhost:8080/Users/id/{id}`  
-     - **Body (JSON, raw):**  
+     - **Body (JSON, raw):**
+      ![Image](https://github.com/user-attachments/assets/b8961d04-2064-4b6c-9b28-794232d1d62c)
          
-
    - **Delete a User**  
      - **Method:** `DELETE`  
-     - **URL:** `http://localhost:8080/Users/id/{id}`    
+     - **URL:** `http://localhost:8080/Users/id/{id}`
+       ![Image](https://github.com/user-attachments/assets/7a282030-4b92-4fcd-943b-a9463fed6961) 
 
 3. **Verify the Changes in MySQL Database**: Run SQL queries to check if the changes are reflected in the database.
    ![Image](https://github.com/user-attachments/assets/10476f5d-d235-4125-8a4b-02095f40251d)
