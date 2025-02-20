@@ -42,3 +42,4 @@ To run the project, **clone the repository, configure MySQL connection details i
 3. **Verify the Changes in MySQL Database**: Run SQL queries to check if the changes are reflected in the database.
    ![Image](https://github.com/user-attachments/assets/10476f5d-d235-4125-8a4b-02095f40251d)
 
+This project is licensed under the MIT License – see the LICENSE file for details.
